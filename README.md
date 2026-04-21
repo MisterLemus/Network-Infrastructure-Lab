@@ -109,6 +109,6 @@
 
 ## 📝 Author
 
-**José Carol Lemus Reyes**  
+**José  Lemus **  
 Network Engineer | Cybersecurity Analyst  
 CCNA | LPIC 1/2/3
