@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================
 # Linux Firewall Configuration (iptables)
-# Author: José Carol Lemus Reyes
+# Author: José  Lemus 
 # Purpose: Server farm firewall rules
 # =============================================
 
